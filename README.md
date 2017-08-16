@@ -24,3 +24,5 @@ Currently every particle event creates an SET (hit probability = 1.0).
 
 # License
 See LICENSE file.
+
+[![DOI](https://zenodo.org/badge/100486954.svg)](https://zenodo.org/badge/latestdoi/100486954)
