@@ -7,7 +7,7 @@ at the start of the simulation.
 
 # Organization
 * `rad.tcl` contains the low level procedures 
-* `radiation_simulation.tcl` is a convinience wrapper to store the
+* `radiation_simulation.tcl` is a convenience wrapper to store the
 radiation environment information alongside the waveforms in the value
 change dump (VCD) file
 * `j12lrtrad.do` is an example top level script that radiates a specific design
